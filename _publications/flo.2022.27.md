@@ -1,8 +1,8 @@
 ---
 title: "Numerical study of oil–water emulsion formation in stirred vessels: effect of impeller speed"
 collection: publications
-permalink: /publication/2022-09-https://doi.org/10.1017/flo.2022.27
-date: 2022-09
+permalink: /publication/2022-09-29-https://doi.org/10.1017/flo.2022.27
+date: 2022-09-29
 venue: 'Flow'
 citation: 'Liang, Fuyue, et al. &quot;Numerical study of oil–water emulsion formation in stirred vessels: effect of impeller speed.&quot; Flow 2 (2022).'
 ---
