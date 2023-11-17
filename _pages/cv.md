@@ -11,30 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* **Ph.D** in Chemical Engineering, Imperial College London, 2020-present
+* **M.Sc.** in Chemical Engineering Imperail College London, 208-2019
+* **B.Sc.** in Chemistry, University of Birmingham, 2016-2018
+* **B.Eng.** in Chemical Engineering, Jinan University, 2014-2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2019-2022: **Process Design** SINOPEC Engineering Co.,Ltd(Guangzhou), China
 
 Publications
 ======
@@ -42,7 +26,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Conferences & Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -50,10 +34,13 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+* 2021-2022 **Graduate Teaching Assistant** Imperial College London, the United Kingdom
+* 2021-2022 **M.Sc. Tutor** Imperial College London, the United Kingdom 
+* Summer 2017 **IELTS Teaching Assistance** Global Education & Technology Co.,Ltd.(Guangzhou), China
+  <!-- <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
