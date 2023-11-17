@@ -1,13 +1,8 @@
 var addressPoints = [
   [
-    "Online",
-    43.59047185,
-    3.8595132132013186
-  ],
-  [
-    "Pheonix, USA",
-    26.5769611,
-    -81.9338534
+    "Phoenix, USA",
+    33.4484367,
+    -112.074141
   ],
   [
     "Washington D.C., USA",
@@ -18,6 +13,11 @@ var addressPoints = [
     "Indianapolis, USA",
     39.7683331,
     -86.1583502
+  ],
+  [
+    "London, UK",
+    51.4893335,
+    -0.14405508452768728
   ],
   [
     "Oslo, Norway",
