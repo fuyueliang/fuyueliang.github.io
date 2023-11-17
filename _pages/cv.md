@@ -39,7 +39,7 @@ Teaching
 * Summer 2017 **IELTS Teaching Assistance** Global Education & Technology Co.,Ltd.(Guangzhou), China
   <!-- <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>  -->
   
 <!-- Service and leadership
 ======
