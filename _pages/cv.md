@@ -37,9 +37,6 @@ Teaching
 * 2021-2022 **Graduate Teaching Assistant** Imperial College London, the United Kingdom
 * 2021-2022 **M.Sc. Tutor** Imperial College London, the United Kingdom 
 * Summer 2017 **IELTS Teaching Assistance** Global Education & Technology Co.,Ltd.(Guangzhou), China
-<!-- <ul>{% for post in site.teaching %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>  -->
   
 <!-- Service and leadership
 ======
