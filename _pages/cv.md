@@ -37,7 +37,3 @@ Teaching
 * 2021-2022 **Graduate Teaching Assistant** Imperial College London, the United Kingdom
 * 2021-2022 **M.Sc. Tutor** Imperial College London, the United Kingdom 
 * Summer 2017 **IELTS Teaching Assistance** Global Education & Technology Co.,Ltd.(Guangzhou), China
-  
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
