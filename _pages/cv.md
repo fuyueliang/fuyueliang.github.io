@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **Ph.D** in Chemical Engineering, Imperial College London, 2020-present
-* **M.Sc.** in Chemical Engineering Imperail College London, 208-2019
+* **M.Sc.** in Chemical Engineering Imperail College London, 2018-2019
 * **B.Sc.** in Chemistry, University of Birmingham, 2016-2018
 * **B.Eng.** in Chemical Engineering, Jinan University, 2014-2018
 
